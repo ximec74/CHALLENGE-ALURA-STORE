@@ -19,4 +19,4 @@ Los graficos utilizados fueron de barras, de puntos y líneas.
 Sobre los insights, lo poderosa que es la herramienta para el análisis de datos.
 
 Instrucciones para ejecutar el notebook.
-Ejecutarlo tal cual esta.
+Abrir con Google Colab.
